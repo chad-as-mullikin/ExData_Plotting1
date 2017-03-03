@@ -5,7 +5,7 @@ https://github.com/rdpeng/EXData_Plotting1
 
 WARNING: I have inclded in my scripts a line that clears all of the data from
 the R Environment. If you don't want to do this, please be sure to
-comment out this line.
+comment out the line "rm(list=ls())" from each script before running.
 
 There are four scripts, creatively named "plot1.R", "plot2.R",
 "plot3.R", and "plot4.R". Each script uses the base plotting functions
